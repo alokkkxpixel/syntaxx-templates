@@ -1,5 +1,9 @@
 {
-    "description":  "Addon for tailwind",
-    "name":  "tailwind",
-    "framework":  "react"
+  "name": "tailwind",
+  "framework": "react",
+  "description": "Tailwind CSS v4 support for React with Vite",
+  "dependencies": {
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/vite": "^4.0.0"
+  }
 }
