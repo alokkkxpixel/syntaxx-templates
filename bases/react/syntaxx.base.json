@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "react-vite",
   "framework": "react",
   "description": "Basic React app with Vite"
 }
