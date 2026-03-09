@@ -1,5 +1,7 @@
 {
   "name": "express",
   "framework": "express",
+  "run": "npm run dev",
+  "install": true,
   "description": "Basic Express server"
 }
