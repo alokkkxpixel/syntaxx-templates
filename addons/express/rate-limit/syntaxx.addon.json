@@ -1,0 +1,5 @@
+{
+    "description":  "Addon for rate-limit",
+    "name":  "rate-limit",
+    "framework":  "express"
+}

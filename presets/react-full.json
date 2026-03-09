@@ -1,0 +1,9 @@
+{
+  "name": "react-full",
+  "base": "react",
+  "addons": [
+    "hooks",
+    "context",
+    "tailwind"
+  ]
+}

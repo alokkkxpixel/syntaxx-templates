@@ -1,0 +1,5 @@
+{
+    "description":  "Addon for swagger",
+    "name":  "swagger",
+    "framework":  "express"
+}
