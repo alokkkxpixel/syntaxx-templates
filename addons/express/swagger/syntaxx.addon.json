@@ -1,5 +1,10 @@
 {
-    "description":  "Addon for swagger",
-    "name":  "swagger",
-    "framework":  "express"
+  "name": "swagger",
+  "framework": "express",
+  "description": "Swagger UI documentation for Express API",
+  "dependencies": {
+    "swagger-ui-express": "^5.0.0",
+    "swagger-jsdoc": "^6.2.8"
+  },
+  "patch": true
 }

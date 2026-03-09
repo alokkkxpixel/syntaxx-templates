@@ -1,5 +1,10 @@
 {
-    "description":  "Addon for auth-jwt",
-    "name":  "auth-jwt",
-    "framework":  "express"
+  "name": "auth-jwt",
+  "framework": "express",
+  "description": "JWT Authentication middleware for Express",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "cookie-parser": "^1.4.6"
+  },
+  "patch": true
 }

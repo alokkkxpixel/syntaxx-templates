@@ -1,5 +1,6 @@
 {
-    "description":  "Addon for context",
-    "name":  "context",
-    "framework":  "react"
+  "name": "context",
+  "framework": "react",
+  "description": "Global App Context for React",
+  "patch": true
 }
