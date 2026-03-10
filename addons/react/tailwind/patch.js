@@ -42,7 +42,7 @@ export default async function patch(projectDir) {
     if (!viteContent.includes("tailwindcss()")) {
       viteContent = viteContent.replace(
         /plugins\s*:\s*\[/,
-        "plugins: [\n    tailwindcss(),",
+        "plugins: [\n    tailwindcss(),"
       );
       modified = true;
     }
